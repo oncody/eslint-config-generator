@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-generator",
+  "version": "1.0.0",
+  "description": "Use this project to generate a new eslint config file for you",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Cody Smith",
+  "license": "MIT",
+  "dependencies": {
+    "request": "latest",
+    "request-promise-native": "latest"
+  }
+}
